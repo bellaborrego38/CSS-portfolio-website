@@ -221,7 +221,7 @@ main {
 .contact address a:hover {
   background-size: 100% 88%;
   color: var(--mint);
-  box-shadow: inset 0px 0px 8px var(--concrete), 0 0 15px var(--mint);
+  /* box-shadow: inset 0px 0px 8px var(--concrete), 0 0 15px var(--mint); */
 }
 
 
